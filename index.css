@@ -1,0 +1,14 @@
+.body {
+    background-position: center;
+    background-color: #F8F8FF !important;
+}
+
+.avatar {
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+     height: 250px;
+     width: 250px;
+     border-radius: 50%;
+     padding-top: 0;
+}
