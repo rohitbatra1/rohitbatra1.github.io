@@ -8,11 +8,12 @@ a{
 .blocktext {
     margin-left: auto;
     margin-right: auto;
-    width: 38em
+    width: 60%
 }
 
 
 .body {
+    /* text-align: center; */
     color: #C0C0C0;
     background-position: center;
     background: url(./images/background.jpg) no-repeat center center fixed;
