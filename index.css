@@ -1,5 +1,17 @@
 .font { font-family: 'Roboto', sans-serif;}
 
+a{
+    color: #0060B6;
+    text-decoration: none;
+}
+
+.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 38em
+}
+
+
 .body {
     color: #C0C0C0;
     background-position: center;
